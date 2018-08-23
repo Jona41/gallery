@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"src",
+				"script\tTag"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"b",
+				"bootstrap"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"form",
+				"form-control"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/git/hd/b.php",
+		"/C/Users/Administrator/git/shop/.gitignore",
+		"/C/Users/Administrator/git/hd/a.php",
+		"/D/实战项目/bootstrap/index.html",
+		"/D/实战项目/bootstrap/css/index.css",
+		"/C/Users/Administrator/git/edu/.git/config",
+		"/C/Users/Administrator/.gitconfig",
+		"/C/Users/Administrator/git/edu/.gitconfig",
+		"/C/Users/Administrator/Desktop/.gitconfig",
+		"/D/实战项目/bootstrap/index.css",
+		"/D/实战项目/bootstrap/插件/modal.html",
+		"/D/实战项目/bootstrap/插件/selection.html",
+		"/D/实战项目/bootstrap/daohangtiao.html",
+		"/D/实战项目/bootstrap/test.html",
+		"/D/实战项目/bootstrap/test2.html",
+		"/D/实战项目/bootstrap/jvmu.html",
+		"/D/实战项目/bootstrap/fuzhulei.html",
+		"/D/实战项目/bootstrap/sangexitong.html",
+		"/D/实战项目/bootstrap/form_and_img.html",
+		"/D/实战项目/bootstrap/table.html",
+		"/C/Users/Administrator/Downloads/bootstrap-3.3.7-dist/js/index.html",
+		"/C/Users/Administrator/Downloads/bootstrap-3.3.7-dist/js/npm.js",
+		"/D/实战项目/bootstrap/表格.html",
+		"/C/Program Files/Sublime Text 3/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gallery.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

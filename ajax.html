@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.resText{
+			width: 200px;
+			height: 200px;
+			border: 1px solid #ccc;
+		}
+	</style>
+</head>
+<body>
+	<input type="button" value="Ajax提交" onclick="Ajax();" />
+	<div class="resText"></div>
+	<script>
+		function Ajax(){
+			var xmlHttpRequest = null;
+			if(window.ActiveXObject){
+				xmlHttpReg = new Active XObject("Microsoft.XMLHTTP");
+			}else if (window.XMLHttpRequest){
+				xmlHttpReg = new XMLHttpRequest();
+			}
+			xmlHttpReg.open("GET","test.php",true);
+			xmlHttpReg.onreadystatechange=RequestCallBack;
+		}
+
+	</script>
+</body>
+</html>
